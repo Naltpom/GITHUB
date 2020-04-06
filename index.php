@@ -8,21 +8,23 @@
 
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <link rel="stylesheet" href="style.css">
         <style>
             *{box-sizing: border-box;}
             span{color:darkred; font-weight:bold;}
         </style>
     </head>
     <body>
+
         <div class="container text-center">
             <h1 class="display-4 pb-4 mb-4">Mon SITE GITHUB</h1>
             <div class="row mt-4">
-                <div class="col-md-4">
+                <div class="col-md-4 paragraphe">
                     <div class="row mx-0">
                         <h2>Titre 1</h2>
                     </div>
                     <div class="row mx-0 mt-4">
-                        <p class="text-right">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nesciunt laboriosam odit dicta ipsum asperiores. Exercitationem, animi corporis quos culpa voluptatibus cupiditate dolore sed possimus velit, excepturi magni perferendis harum rerum.</p>
+                        <p class="text-justify">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nesciunt laboriosam odit dicta ipsum asperiores. Exercitationem, animi corporis quos culpa voluptatibus cupiditate dolore sed possimus velit, excepturi magni perferendis harum rerum.</p>
                     </div>
                     <div class="row mx-0 d-flex justify-content-between my-2">
                         <span>FOOTER</span><a href="#" class="mr-4 pr-4">Lien 1</a>
@@ -33,7 +35,7 @@
                         <h2>Titre 2</h2>
                     </div>
                     <div class="row mx-0 mt-4">
-                        <p class="text-right">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nesciunt laboriosam odit dicta ipsum asperiores. Exercitationem, animi corporis quos culpa voluptatibus cupiditate dolore sed possimus velit, excepturi magni perferendis harum rerum.</p>
+                        <p class="text-justify">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nesciunt laboriosam odit dicta ipsum asperiores. Exercitationem, animi corporis quos culpa voluptatibus cupiditate dolore sed possimus velit, excepturi magni perferendis harum rerum.</p>
                     </div>
                     <div class="row mx-0 d-flex justify-content-between my-2">
                         <span>FOOTER</span><a href="#" class="mr-4 pr-4">Lien 2</a>
@@ -44,7 +46,7 @@
                         <h2>Titre 3</h2>
                     </div>
                     <div class="row mx-0 mt-4">
-                        <p class="text-right">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nesciunt laboriosam odit dicta ipsum asperiores. Exercitationem, animi corporis quos culpa voluptatibus cupiditate dolore sed possimus velit, excepturi magni perferendis harum rerum.</p>
+                        <p class="text-justify">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nesciunt laboriosam odit dicta ipsum asperiores. Exercitationem, animi corporis quos culpa voluptatibus cupiditate dolore sed possimus velit, excepturi magni perferendis harum rerum.</p>
                     </div>
                     <div class="row mx-0 d-flex justify-content-between my-2">
                         <span>FOOTER</span><a href="#" class="mr-4 pr-4">Lien 3</a>
