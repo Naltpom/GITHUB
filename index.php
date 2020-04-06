@@ -17,14 +17,18 @@
     <body>
 
         <div class="container text-center">
-            <h1 class="display-4 pb-4 mb-4">Mon SITE GITHUB</h1>
+            <h1 class=" pb-4 mb-4">J'ai modifié ce titre</h1>
+            <h2 class="display-4 text-center">Titre ajouté</h2>
             <div class="row mt-4">
+
+
                 <div class="col-md-4 paragraphe">
                     <div class="row mx-0">
                         <h2>Titre 1</h2>
                     </div>
                     <div class="row mx-0 mt-4">
                         <p class="text-justify">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nesciunt laboriosam odit dicta ipsum asperiores. Exercitationem, animi corporis quos culpa voluptatibus cupiditate dolore sed possimus velit, excepturi magni perferendis harum rerum.</p>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam laborum, officia numquam porro veritatis explicabo perspiciatis unde omnis aperiam est suscipit, quibusdam, saepe nesciunt. Itaque officiis fugiat beatae recusandae amet.</p>
                     </div>
                     <div class="row mx-0 d-flex justify-content-between my-2">
                         <span>FOOTER</span><a href="#" class="mr-4 pr-4">Lien 1</a>
